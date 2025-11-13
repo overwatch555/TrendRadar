@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:29:51.599179+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-11-13T22:12:50.084685+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时58分 ~ 21时29分]"
+          "appearance_count": 21,
+          "time_info": "[08时58分 ~ 22时12分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -474,6 +474,17 @@
           "time_info": "[09时17分 ~ 13时13分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -486,15 +497,16 @@
           "time_info": "[16时16分 ~ 18时14分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时12分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -509,28 +521,17 @@
           "time_info": "[11时42分 ~ 13时13分]"
         },
         {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时29分]"
-        },
-        {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -580,7 +581,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -600,7 +601,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -638,6 +639,17 @@
           "time_info": "18时14分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3004069",
           "source": "华尔街见闻-快讯",
@@ -655,7 +667,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
