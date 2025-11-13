@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T09:18:01.249416+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-11-13T09:41:34.528103+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 09时41分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
           "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 09时41分]"
         },
         {
           "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
@@ -35,11 +36,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普拟定数小时后正式结束政府停摆",
+          "url": "https://flash.jin10.com/detail/20251113083457271800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 09时18分]"
+          "time_info": "[09时18分 ~ 09时41分]"
         },
         {
           "title": "美国交通部：特朗普政府周四将航班削减幅度冻结在6%，而非此前计划的上调至8%。",
@@ -65,17 +79,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "特朗普拟定数小时后正式结束政府停摆",
-          "url": "https://flash.jin10.com/detail/20251113083457271800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%2587%25B4%25E4%25BF%25A1%25E4%25BB%25A5%25E6%2580%25BB%25E7%25BB%259F%25E6%25B1%2582%25E8%25B5%25A6%25E5%2585%258D%25E5%2586%2585%25E5%25A1%2594%25E5%25B0%25BC%25E4%25BA%259A%25E8%2583%25A1%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D26%26pos%3D25%26display_time%3D1762995425%26pre_seqid%3D17629954258230113528035&launchid=10000360-page_H5",
           "source": "微博",
@@ -97,11 +100,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 09时41分]"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
@@ -117,25 +121,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -145,8 +132,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 09时41分]"
+        },
+        {
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 09时41分]"
         }
       ]
     }
