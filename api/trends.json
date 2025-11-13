@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T09:41:34.528103+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-11-13T10:43:24.267169+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 09时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 10时43分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 09时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 10时43分]"
         },
         {
           "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 09时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 10时43分]"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
@@ -132,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 09时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 10时43分]"
         },
         {
           "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
@@ -142,7 +142,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
@@ -158,11 +158,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 09时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 10时43分]"
         }
       ]
     }
