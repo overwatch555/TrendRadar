@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T08:58:38.301447+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-13T09:18:01.249416+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -15,8 +15,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
+          "url": "https://wallstreetcn.com/livenews/3003722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 09时18分]"
+        },
+        {
+          "title": "美国交通部：特朗普政府周四将航班削减幅度冻结在6%，而非此前计划的上调至8%。",
+          "url": "https://flash.jin10.com/detail/20251113082755128800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 09时18分]"
         },
         {
           "title": "美国白宫：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
@@ -30,26 +65,15 @@
           "time_info": "08时58分"
         },
         {
-          "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
-          "url": "https://wallstreetcn.com/livenews/3003722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "美国交通部：特朗普政府周四将航班削减幅度冻结在6%，而非此前计划的上调至8%。",
-          "url": "https://flash.jin10.com/detail/20251113082755128800",
+          "title": "特朗普拟定数小时后正式结束政府停摆",
+          "url": "https://flash.jin10.com/detail/20251113083457271800",
           "source": "金十数据",
           "ranks": [
-            20
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -57,6 +81,34 @@
           "source": "微博",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
+          "url": "https://wallstreetcn.com/livenews/3003702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,25 +128,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
-          "url": "https://wallstreetcn.com/livenews/3003702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 09时18分]"
         }
       ]
     },
@@ -110,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 09时18分]"
         }
       ]
     }
