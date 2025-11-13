@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:14:40.376691+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-11-13T19:11:32.216343+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时58分 ~ 18时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时58分 ~ 19时11分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -60,6 +60,21 @@
           "time_info": "[11时42分 ~ 15时12分]"
         },
         {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时18分 ~ 19时11分]"
+        },
+        {
           "title": "特朗普罕见为中国留学生辩护",
           "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
           "source": "凤凰网",
@@ -83,20 +98,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 18时14分]"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时14分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -129,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -230,6 +231,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时58分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
@@ -364,28 +387,6 @@
           "time_info": "[08时58分 ~ 09时18分]"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "美国白宫：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
           "url": "https://flash.jin10.com/detail/20251113083457271800",
           "source": "金十数据",
@@ -406,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113180638887800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -433,7 +445,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.1",
@@ -462,6 +474,17 @@
           "time_info": "[16时16分 ~ 18时14分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
@@ -480,9 +503,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -502,7 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -532,7 +555,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -552,7 +575,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -574,7 +597,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -585,9 +608,59 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
+          "url": "https://flash.jin10.com/detail/20251113184640966800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
+          "url": "https://flash.jin10.com/detail/20251113184617045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         }
       ]
     },
@@ -602,7 +675,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -625,7 +698,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
