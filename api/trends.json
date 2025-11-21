@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T20:21:42.235666+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2025-11-21T21:23:29.821686+08:00",
+  "total_titles_processed": 2026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -22,6 +22,19 @@
           "time_info": "[08时50分 ~ 16时16分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时18分 ~ 21时23分]"
+        },
+        {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
           "url": "https://news.ifeng.com/c/8oRnabvaRvi",
           "source": "凤凰网",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时50分 ~ 14时18分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时18分 ~ 20时21分]"
         },
         {
           "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
@@ -370,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -406,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "特朗普的乌克兰和平计划包括以北约“第5条”为蓝本的安全保障，这将使美国和欧洲盟国将对乌克兰的攻击视为对“跨大西洋共同体”的攻击。",
+          "url": "https://flash.jin10.com/detail/20251121205930155800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望“处决”国会山成员。",
@@ -474,6 +486,17 @@
           "time_info": "19时10分"
         },
         {
+          "title": "特朗普为何取消对巴西40%食品关税",
+          "url": "https://www.toutiao.com/trending/7575096459230449162/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "报道：特朗普悄然提名枪械管理局局长",
           "url": "https://flash.jin10.com/detail/20251121014055857800",
           "source": "金十数据",
@@ -524,7 +547,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -543,7 +566,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -592,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时25分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[10时25分 ~ 21时23分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -621,8 +644,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时25分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[10时25分 ~ 21时23分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -647,8 +670,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时18分 ~ 20时21分]"
+          "appearance_count": 10,
+          "time_info": "[14时18分 ~ 21时23分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -670,11 +693,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 21时23分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -831,6 +855,17 @@
           "time_info": "[11时39分 ~ 12时15分]"
         },
         {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -840,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
+        },
+        {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
@@ -958,7 +1004,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1151,7 +1197,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
@@ -1258,7 +1304,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗外长：开罗协议正式终止",
@@ -1346,12 +1392,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时50分 ~ 10时26分]"
+        },
+        {
+          "title": "伊朗外长：开罗协议破裂是美欧挑衅的结果",
+          "url": "https://wallstreetcn.com/livenews/3008722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -1363,8 +1420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时50分 ~ 20时21分]"
+          "appearance_count": 18,
+          "time_info": "[08时50分 ~ 21时23分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -1391,6 +1448,17 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "瑞典北欧斯安银行：Q1美债收益率料将达到3.9%",
           "url": "https://flash.jin10.com/detail/20251121141916868800",
           "source": "金十数据",
@@ -1411,6 +1479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯表示对近期降息持开放态度后，美股三大股指期货短线拉升，纳指期货跌幅收窄至0.2%，标普500指数期货涨0.16%；美债上涨；现货黄金短线上扬近10美元。",
+          "url": "https://wallstreetcn.com/livenews/3008713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
