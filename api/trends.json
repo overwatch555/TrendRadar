@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T08:55:34.166250+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-11-24T10:48:40.557046+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -76,6 +76,17 @@
           "time_info": "[00时12分 ~ 06时10分]"
         },
         {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时48分]"
+        },
+        {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
           "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
@@ -89,17 +100,6 @@
           "time_info": "[00时12分 ~ 05时10分]"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
           "title": "据知情人士透露，美国与乌克兰讨论本周将乌总统泽连斯基带到美国。 特朗普政府希望，在感恩节（11月27日）之前达成协议。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3009188",
           "source": "华尔街见闻-快讯",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 07时10分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "特朗普拟推出新方案以修正奥巴马医改补贴政策",
@@ -227,7 +238,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -249,7 +260,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -281,11 +292,12 @@
             17,
             23,
             21,
-            28
+            28,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 10时48分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -294,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -322,7 +334,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -333,7 +345,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -344,7 +356,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
