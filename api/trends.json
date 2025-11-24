@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T13:14:17.840986+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-11-24T14:18:44.044223+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 14时18分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -255,6 +255,39 @@
           "time_info": "07时10分"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
+          "url": "https://flash.jin10.com/detail/20251124131919141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "特朗普：期待最高法院对关税问题的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3009368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
           "source": "澎湃新闻",
@@ -308,11 +341,12 @@
             13,
             6,
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时12分 ~ 14时18分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -353,8 +387,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
           "url": "https://flash.jin10.com/detail/20251124071540282800",
@@ -413,11 +458,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时18分]"
         },
         {
           "title": "伊朗谴责国际原子能机构理事会反伊决议",
@@ -426,7 +472,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
