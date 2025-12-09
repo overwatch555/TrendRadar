@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T12:20:53.788531+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2025-12-09T13:12:56.235572+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 11时46分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 13时12分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 12时20分]"
         },
         {
           "title": "美国总统特朗普：农业设备已经变得太贵了。",
@@ -174,6 +174,17 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 13时12分]"
+        },
+        {
           "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
           "url": "https://flash.jin10.com/detail/20251209043642647800",
           "source": "金十数据",
@@ -203,17 +214,6 @@
           "source": "知乎",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 12时20分]"
-        },
-        {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -609,8 +609,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 13时12分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -622,8 +622,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时11分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 13时12分]"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
@@ -849,8 +849,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 12时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 13时12分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -862,19 +862,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时12分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时12分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
           "url": "https://wallstreetcn.com/livenews/3017367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时12分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -899,18 +912,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -1028,8 +1029,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时12分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
