@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:17:24.186038+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-12-12T18:14:01.492343+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 18时14分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -58,6 +59,21 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -67,20 +83,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时47分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 17时17分]"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -137,6 +139,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "美国财政部计划增加特朗普时期对企业的税收优惠",
@@ -199,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时26分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
@@ -298,6 +324,18 @@
           "time_info": "[02时16分 ~ 04时14分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普称美对委行动很快将延伸至陆地",
           "url": "https://www.toutiao.com/trending/7582515717653315611/",
           "source": "今日头条",
@@ -310,18 +348,6 @@
           "time_info": "[11时53分 ~ 12时26分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时17分]"
-        },
-        {
           "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
           "url": "https://flash.jin10.com/detail/20251212032018653800",
           "source": "金十数据",
@@ -332,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时13分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
@@ -526,17 +540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
@@ -840,8 +843,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时25分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 18时14分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1316,7 +1319,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1325,11 +1328,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 18时14分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -1341,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1518,7 +1533,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
