@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:23:28.273991+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2025-12-12T21:29:40.128286+08:00",
+  "total_titles_processed": 2067,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时14分 ~ 20时23分]"
+          "appearance_count": 11,
+          "time_info": "[13时14分 ~ 21时29分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -77,17 +77,6 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 15时16分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
@@ -97,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 21时29分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -109,8 +98,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 15时16分]"
         },
         {
           "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
@@ -858,8 +858,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 20时23分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 21时29分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1227,7 +1227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1249,7 +1249,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1293,7 +1293,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -1380,8 +1380,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时47分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[10时47分 ~ 21时29分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -1450,8 +1450,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时29分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
