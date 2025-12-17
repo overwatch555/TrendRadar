@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:19:15.771366+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-12-17T15:16:15.565813+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时44分 ~ 15时16分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 14时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时44分 ~ 15时16分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -45,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 15时16分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -69,6 +69,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 08时50分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时16分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -99,19 +113,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 14时19分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -213,6 +214,30 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 15时16分]"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 15时16分]"
+        },
+        {
           "title": "美国州政府官员们终止关于马斯克在特朗普政府担职的案件",
           "url": "https://wallstreetcn.com/livenews/3021819",
           "source": "华尔街见闻-快讯",
@@ -297,17 +322,6 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时19分]"
-        },
-        {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
           "url": "https://www.toutiao.com/trending/7584624870806277638/",
           "source": "今日头条",
@@ -317,18 +331,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时49分 ~ 12时25分]"
-        },
-        {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时19分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -446,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普长子订婚 女方是何许人",
+          "url": "https://www.toutiao.com/trending/7584611681938968083/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "关税裁决将至特朗普频繁发声",
@@ -727,8 +740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 14时19分]"
+          "appearance_count": 13,
+          "time_info": "[07时11分 ~ 15时16分]"
         },
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
