@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T12:02:28.670136+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-12-22T13:17:39.740774+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时17分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -53,11 +53,12 @@
             19,
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时09分 ~ 12时02分]"
+          "appearance_count": 11,
+          "time_info": "[03时09分 ~ 13时17分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -66,11 +67,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时16分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[02时16分 ~ 13时17分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -169,20 +171,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -202,7 +205,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -216,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -294,8 +308,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时17分]"
         }
       ]
     },
@@ -323,7 +337,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -384,11 +398,12 @@
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
         }
       ]
     },
@@ -403,22 +418,24 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时17分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时17分]"
         }
       ]
     },
