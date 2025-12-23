@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:31:24.997454+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2025-12-23T22:13:09.272047+08:00",
+  "total_titles_processed": 1997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时54分 ~ 21时31分]"
+          "appearance_count": 21,
+          "time_info": "[08时54分 ~ 22时13分]"
         },
         {
           "title": "如何看特朗普级战列舰计划",
@@ -63,11 +63,12 @@
             6,
             11,
             13,
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时50分 ~ 21时31分]"
+          "appearance_count": 20,
+          "time_info": "[10时50分 ~ 22时13分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -122,6 +123,31 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时13分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时13分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普：美国“必须得到格陵兰岛”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
@@ -165,30 +191,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时50分 ~ 15时17分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 21时31分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 21时31分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -521,6 +523,17 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
+          "title": "特朗普夸耀与马克龙“交锋”战绩",
+          "url": "https://www.toutiao.com/trending/7586142427094908934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普的战列舰狂想",
           "url": "https://www.toutiao.com/trending/7586959074525187625/",
           "source": "今日头条",
@@ -681,7 +694,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -725,7 +738,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -868,7 +881,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1212,11 +1225,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时13分 ~ 22时13分]"
         },
         {
           "title": "金价突破1400元",
@@ -1250,8 +1264,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 22时13分]"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时31分]"
+          "time_info": "[21时31分 ~ 22时13分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -1286,17 +1312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "金价银价同日创新高",
@@ -1417,7 +1432,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1436,7 +1451,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1510,6 +1525,17 @@
           "time_info": "[05时11分 ~ 06时12分]"
         },
         {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美元指数DXY跌破98，创5日新低。",
           "url": "https://flash.jin10.com/detail/20251223161014189800",
           "source": "金十数据",
@@ -1519,6 +1545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
