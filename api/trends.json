@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:11:58.249038+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2025-12-26T20:22:06.146790+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 20时22分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 06时11分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时22分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时11分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -282,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 20时22分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
