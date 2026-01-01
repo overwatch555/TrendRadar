@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:40:38.531840+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-01T13:20:22.910443+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -156,6 +156,18 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时20分]"
+        },
+        {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260101045615854800",
           "source": "金十数据",
@@ -189,24 +201,13 @@
           "time_info": "11时31分"
         },
         {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
           "url": "https://flash.jin10.com/detail/20260101111825003800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -217,7 +218,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -259,8 +260,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时20分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -405,8 +406,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时20分]"
         }
       ]
     },
