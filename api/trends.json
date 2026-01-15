@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:19:59.270759+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-01-15T18:14:40.977627+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 18时14分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -44,6 +44,21 @@
           "time_info": "[00时17分 ~ 04时12分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 18时14分]"
+        },
+        {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
           "url": "https://www.cls.cn/detail/2258166",
           "source": "财联社热门",
@@ -67,23 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时54分 ~ 17时19分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -116,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
@@ -195,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "克里姆林宫就特朗普称泽连斯基阻挠乌克兰和平协议一事回应：特朗普说得对。",
+          "url": "https://flash.jin10.com/detail/20260115180050844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
@@ -399,6 +410,18 @@
           "time_info": "[06时14分 ~ 07时11分]"
         },
         {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时14分]"
+        },
+        {
           "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
           "url": "https://flash.jin10.com/detail/20260115053341985800",
           "source": "金十数据",
@@ -476,7 +499,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -501,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
@@ -589,17 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
@@ -869,7 +892,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
@@ -928,8 +951,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 18时14分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -959,8 +982,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时53分 ~ 17时19分]"
+          "appearance_count": 14,
+          "time_info": "[10时53分 ~ 18时14分]"
         },
         {
           "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
@@ -1050,6 +1073,17 @@
           "time_info": "[10时53分 ~ 12时02分]"
         },
         {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时14分]"
+        },
+        {
           "title": "伊朗外长：政府已完全掌控局面",
           "url": "https://www.toutiao.com/trending/7595402470608621094/",
           "source": "今日头条",
@@ -1062,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时01分 ~ 14时20分]"
-        },
-        {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "外媒：伊朗关闭领空",
@@ -1310,6 +1333,17 @@
           "time_info": "[03时13分 ~ 04时12分]"
         },
         {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时14分]"
+        },
+        {
           "title": "G7声明：七国集团仍准备在伊朗继续压制抗议活动时实施额外限制措施。",
           "url": "https://flash.jin10.com/detail/20260115024535202800",
           "source": "金十数据",
@@ -1455,6 +1489,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "安理会将在当地时间1月15日就伊朗局势举行相关会议。",
           "url": "https://flash.jin10.com/detail/20260115102723442800",
           "source": "金十数据",
@@ -1475,17 +1520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -1527,7 +1561,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1655,8 +1689,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时54分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[08时54分 ~ 18时14分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1759,7 +1793,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1947,11 +1981,12 @@
             10,
             13,
             8,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 18时14分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
