@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:30:29.224837+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-02-03T19:27:07.134287+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -24,11 +24,37 @@
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时27分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时27分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时27分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -45,19 +71,6 @@
           "time_info": "[09时09分 ~ 16时26分]"
         },
         {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 18时30分]"
-        },
-        {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
@@ -70,6 +83,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时09分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -151,18 +175,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 18时30分]"
-        },
-        {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
           "url": "https://wallstreetcn.com/livenews/3048475",
           "source": "华尔街见闻-快讯",
@@ -226,7 +238,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -567,7 +579,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -658,6 +670,20 @@
           "time_info": "[00时25分 ~ 02时29分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 19时27分]"
+        },
+        {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
           "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
           "source": "凤凰网",
@@ -705,30 +731,6 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
-          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260203182007876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时30分]"
-        },
-        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://flash.jin10.com/detail/20260203001742180800",
           "source": "金十数据",
@@ -751,17 +753,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260203181952367800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
           "title": "伊朗总统已下令启动核谈判",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
           "source": "百度热搜",
@@ -774,6 +765,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时27分]"
+        },
+        {
+          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260203181952367800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时27分]"
         },
         {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
@@ -874,7 +889,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -992,8 +1007,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1018,6 +1033,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时29分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时27分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -1072,18 +1099,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时30分]"
-        },
-        {
           "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
           "url": "https://wallstreetcn.com/livenews/3048993",
           "source": "华尔街见闻-快讯",
@@ -1102,7 +1117,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -1262,6 +1277,17 @@
           "time_info": "[13时42分 ~ 17时31分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时27分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -1273,17 +1299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 07时19分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1404,11 +1419,12 @@
           "url": "https://flash.jin10.com/detail/20260203181911181800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时27分]"
         }
       ]
     },
