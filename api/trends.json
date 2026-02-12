@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:56:32.735476+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-02-12T15:45:16.045906+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时50分 ~ 14时56分]"
+          "appearance_count": 19,
+          "time_info": "[01时50分 ~ 15时45分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -117,6 +117,19 @@
           "time_info": "07时23分"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时45分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
           "url": "https://flash.jin10.com/detail/20260212032206474800",
           "source": "金十数据",
@@ -154,6 +167,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时45分]"
         },
         {
           "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
@@ -220,16 +245,15 @@
           "time_info": "[03时50分 ~ 05时26分]"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 15时45分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -256,18 +280,6 @@
           "time_info": "[06时38分 ~ 07时23分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时56分]"
-        },
-        {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260212055115912800",
           "source": "金十数据",
@@ -278,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时23分]"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时45分]"
         },
         {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
@@ -412,26 +435,26 @@
           "time_info": "[03时50分 ~ 04时28分]"
         },
         {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://wallstreetcn.com/livenews/3054322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "15时45分"
         },
         {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "15时45分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -691,6 +714,19 @@
           "time_info": "13时58分"
         },
         {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
           "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
           "url": "https://flash.jin10.com/detail/20260212032434907800",
           "source": "金十数据",
@@ -702,18 +738,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时26分]"
-        },
-        {
-          "title": "伊朗总统：愿接受任何形式的核查",
-          "url": "https://www.douyin.com/hot/2397305",
-          "source": "抖音",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时56分]"
         },
         {
           "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
@@ -862,6 +886,19 @@
           "time_info": "[07时22分 ~ 13时58分]"
         },
         {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013127382800",
           "source": "金十数据",
@@ -893,19 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时56分]"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -977,11 +1001,12 @@
             4,
             10,
             15,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时56分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时45分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -990,11 +1015,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时37分 ~ 14时56分]"
+          "appearance_count": 11,
+          "time_info": "[06时37分 ~ 15时45分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1005,8 +1031,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时56分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时45分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1026,11 +1052,12 @@
           "source": "微博",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时45分]"
         }
       ]
     },
@@ -1059,8 +1086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 14时56分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 15时45分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -1150,7 +1177,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
