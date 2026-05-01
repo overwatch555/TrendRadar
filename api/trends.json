@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:02:15.086479+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-01T20:02:17.006075+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时46分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[05时46分 ~ 20时02分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -47,6 +47,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 09时55分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 20时02分]"
         },
         {
           "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 16时00分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时02分]"
         },
         {
           "title": "特朗普还是没抵住诱惑",
@@ -149,6 +149,29 @@
           "time_info": "[13时34分 ~ 19时02分]"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时02分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普，居然这都能搞错？",
           "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
           "source": "凤凰网",
@@ -158,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3097875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -228,17 +240,6 @@
           "time_info": "[05时46分 ~ 07时42分]"
         },
         {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时02分]"
-        },
-        {
           "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
           "url": "https://flash.jin10.com/detail/20260501052721339800",
           "source": "金十数据",
@@ -251,15 +252,27 @@
           "time_info": "[05时46分 ~ 06时41分]"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时02分]"
+          "time_info": "[19时01分 ~ 20时02分]"
         },
         {
           "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
@@ -328,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
@@ -635,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -764,7 +766,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -775,8 +777,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 20时02分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -786,8 +788,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时02分]"
         },
         {
           "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
@@ -799,8 +801,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 20时02分]"
         },
         {
           "title": "伊朗总统：美国海上封锁“不可容忍”",
@@ -808,11 +810,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时00分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时00分 ~ 20时02分]"
         },
         {
           "title": "伊朗住联合国代表指责部分阿拉伯国家参与对伊“侵略”行动",
@@ -879,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：在伊朗战争带来的通胀风险下，收紧金融条件似乎是合理的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260501195220467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -953,6 +967,17 @@
           "time_info": "[09时55分 ~ 16时01分]"
         },
         {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时02分]"
+        },
+        {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
           "url": "https://flash.jin10.com/detail/20260501052348245800",
           "source": "金十数据",
@@ -1023,15 +1048,15 @@
           "time_info": "[07时42分 ~ 09时55分]"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "title": "伊朗战争丨伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "新西兰4月澳新银行新西兰消费者信心指数下降至80.3，创2023年5月份以来新低，前值91.3。 由于爆发伊朗战争，燃料价格上涨，冲击到家庭收入、加重对经济下滑的担忧情绪。",
@@ -1116,6 +1141,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://wallstreetcn.com/livenews/3097890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
           "url": "https://flash.jin10.com/detail/20260501014421006800",
           "source": "金十数据",
@@ -1147,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://flash.jin10.com/detail/20260501194914036800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "多艘伊朗超级油轮在美军封锁线内集结",
@@ -1199,7 +1246,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1380,6 +1427,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "土耳其外交消息人士：土耳其外交部长在与伊朗外长的通话中讨论了美伊谈判的最新情况。",
+          "url": "https://flash.jin10.com/detail/20260501192240316800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "伊朗最高领袖：将确保波斯湾区域安全",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E5%B0%86%E7%A1%AE%E4%BF%9D%E6%B3%A2%E6%96%AF%E6%B9%BE%E5%8C%BA%E5%9F%9F%E5%AE%89%E5%85%A8",
           "source": "百度热搜",
@@ -1405,7 +1463,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -1431,15 +1489,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3097873",
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时02分"
         },
         {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
@@ -1491,6 +1549,42 @@
           "time_info": "[07时42分 ~ 09时55分]"
         },
         {
+          "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
+          "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
+          "title": "雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期",
+          "url": "https://wallstreetcn.com/livenews/3097866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
           "title": "Sandisk第三财季营收59.5亿美元，分析师预期47.2亿美元。第三财季调整后每股收益（EPS）为23.41美元，分析师预期14.51美元。预计第四财季营收77.5亿-82.5亿美元，分析师预期66.5亿美元。预计第四财季调整后EPS为30-33美元，分析师预期24.6美元。Sandisk美股盘后跌8%。",
           "url": "https://wallstreetcn.com/livenews/3097714",
           "source": "华尔街见闻-快讯",
@@ -1501,28 +1595,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时41分]"
-        },
-        {
-          "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3097869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期",
-          "url": "https://wallstreetcn.com/livenews/3097866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "新闻交易员：油价都三位数了，美股还在笑，究竟谁在扛雷？",
@@ -1583,7 +1655,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1595,8 +1667,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时41分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[06时41分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1608,8 +1680,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时41分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[06时41分 ~ 20时02分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1625,6 +1697,19 @@
           "time_info": "[00时16分 ~ 07时42分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时02分]"
+        },
+        {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
@@ -1635,18 +1720,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 09时55分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 19时02分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
@@ -1709,6 +1782,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
+          "url": "https://flash.jin10.com/detail/20260501193320957800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "谷歌A创约8个月最大盘中涨幅",
           "url": "https://wallstreetcn.com/livenews/3097611",
           "source": "华尔街见闻-快讯",
@@ -1737,8 +1821,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 20时02分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1986,6 +2070,18 @@
           "time_info": "[00时16分 ~ 06时41分]"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时02分]"
+        },
+        {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
           "url": "https://wallstreetcn.com/livenews/3097736",
           "source": "华尔街见闻-快讯",
@@ -1996,17 +2092,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
