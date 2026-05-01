@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:46:40.738741+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-05-01T23:45:50.105171+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 90,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 22时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 23时45分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 23时45分]"
         },
         {
           "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 22时46分]"
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时45分]"
         },
         {
           "title": "伊朗住联合国代表指责部分阿拉伯国家参与对伊“侵略”行动",
@@ -137,6 +137,17 @@
           "time_info": "17时46分"
         },
         {
+          "title": "白宫拒评有关伊朗回应细节",
+          "url": "https://flash.jin10.com/detail/20260501231543542800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "英国央行首席经济学家皮尔：在伊朗战争带来的通胀风险下，收紧金融条件似乎是合理的应对措施。",
           "url": "https://flash.jin10.com/detail/20260501195220467800",
           "source": "金十数据",
@@ -148,15 +159,26 @@
           "time_info": "20时02分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "title": "伊朗消息人士：伊朗仍对美国深感不信任",
+          "url": "https://flash.jin10.com/detail/20260501231455080800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "23时45分"
+        },
+        {
+          "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
+          "url": "https://wallstreetcn.com/livenews/3097949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -267,6 +289,18 @@
           "time_info": "[17时46分 ~ 19时02分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
           "url": "https://news.ifeng.com/c/8slUlo0THc1",
           "source": "凤凰网",
@@ -276,6 +310,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时34分 ~ 16时01分]"
+        },
+        {
+          "title": "伊朗递交最新伊美谈判方案",
+          "url": "https://www.toutiao.com/trending/7634159062485450795/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 23时45分]"
         },
         {
           "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
@@ -324,18 +371,6 @@
           "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "伊朗递交最新伊美谈判方案",
-          "url": "https://www.toutiao.com/trending/7634159062485450795/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时46分]"
-        },
-        {
           "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
           "url": "https://wallstreetcn.com/livenews/3097890",
           "source": "华尔街见闻-快讯",
@@ -346,6 +381,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时02分 ~ 21时25分]"
+        },
+        {
+          "title": "伊朗谈判方案已被转交美国",
+          "url": "https://wallstreetcn.com/livenews/3097938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "新西兰4月澳新银行新西兰消费者信心指数下降至80.3，创2023年5月份以来新低，前值91.3。 由于爆发伊朗战争，燃料价格上涨，冲击到家庭收入、加重对经济下滑的担忧情绪。",
@@ -396,6 +443,18 @@
           "time_info": "[17时46分 ~ 19时02分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://wallstreetcn.com/livenews/3097934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗外交部：美国袭击伊朗是“侵略行为”",
           "url": "https://wallstreetcn.com/livenews/3097848",
           "source": "华尔街见闻-快讯",
@@ -406,6 +465,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
@@ -447,9 +518,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "油轮追踪机构TankerTrackers：运载原油改道前往伊朗的油轮数量持续增加。",
@@ -461,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
-        },
-        {
-          "title": "伊朗谈判方案已被转交美国",
-          "url": "https://wallstreetcn.com/livenews/3097938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
         },
         {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
@@ -540,6 +611,17 @@
           "time_info": "21时25分"
         },
         {
+          "title": "美国财政部网站更新针对伊朗的相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260501230903973800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗向巴基斯坦提交了关于美伊对话的最新提案。提案文本已于周四递交。（伊通社）",
           "url": "https://wallstreetcn.com/livenews/3097904",
           "source": "华尔街见闻-快讯",
@@ -584,17 +666,6 @@
           "time_info": "21时25分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://wallstreetcn.com/livenews/3097934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
           "title": "阿联酋外交部：禁止公民前往伊朗、黎巴嫩和伊拉克。",
           "url": "https://flash.jin10.com/detail/20260501034327246800",
           "source": "金十数据",
@@ -612,7 +683,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -656,7 +727,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -692,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：战胜敌对超级大国之后进行重建的日子即将到来。",
+          "url": "https://flash.jin10.com/detail/20260501225711327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗称最高领袖身体健康",
@@ -810,7 +892,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -835,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "巴基斯坦官员称伊朗递交的最新谈判方案已转交美国",
+          "url": "https://flash.jin10.com/detail/20260501222838293800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "泽连斯基：伊朗战争使乌克兰和谈悬而未决",
@@ -887,7 +980,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -934,23 +1027,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "伊朗递交最新谈判方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
@@ -999,11 +1081,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 22时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 23时45分]"
         },
         {
           "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
@@ -1015,6 +1098,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时34分 ~ 17时46分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 23时45分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 23时45分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -1039,31 +1148,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 16时00分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
         },
         {
           "title": "特朗普还是没抵住诱惑",
@@ -1104,6 +1188,17 @@
           "time_info": "[00时16分 ~ 09时55分]"
         },
         {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普称美国结束对伊朗战争",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -1117,17 +1212,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时34分 ~ 19时02分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 22时46分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -1290,6 +1374,18 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -1358,6 +1454,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普再批主持人 美监管机构提前审查电视台执照引质疑",
           "url": "https://wallstreetcn.com/livenews/3097812",
           "source": "华尔街见闻-快讯",
@@ -1389,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普称他可能需要打破伊朗停火协议",
@@ -1435,6 +1553,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "小唐纳德·特朗普和埃里克·特朗普于去年8月入股了建筑集团Skyline Builders。",
           "url": "https://flash.jin10.com/detail/20260501034306081800",
           "source": "金十数据",
@@ -1455,17 +1584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：（关于华盛顿晚宴枪击事件）他们表示特勤局特工并非被“友军”误伤。",
@@ -1611,6 +1729,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
+          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
           "url": "https://flash.jin10.com/detail/20260501032430305800",
           "source": "金十数据",
@@ -1738,7 +1867,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         }
@@ -1746,7 +1875,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -1770,17 +1899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
-          "url": "https://flash.jin10.com/detail/20260501222150341800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
         },
         {
           "title": "周五美股盘前你需要了解的全球要闻",
@@ -1817,6 +1935,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时46分 ~ 07时42分]"
+        },
+        {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -1903,6 +2033,17 @@
           "time_info": "[05时46分 ~ 06时41分]"
         },
         {
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "新闻交易员：油价都三位数了，美股还在笑，究竟谁在扛雷？",
           "url": "https://flash.jin10.com/detail/20260501084240798800",
           "source": "金十数据",
@@ -1942,7 +2083,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1953,7 +2094,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1975,7 +2116,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -1994,7 +2135,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -2006,22 +2147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时41分 ~ 22时46分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时41分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[06时41分 ~ 23时45分]"
         },
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -2034,8 +2161,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 23时45分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[06时41分 ~ 23时45分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -2112,6 +2253,17 @@
           "time_info": "[07时42分 ~ 09时55分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097667",
           "source": "华尔街见闻-快讯",
@@ -2161,11 +2313,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 23时45分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -2423,8 +2576,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 22时46分]"
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时45分]"
         },
         {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
