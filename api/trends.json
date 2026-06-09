@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:27:02.619537+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-06-09T21:36:15.960113+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -135,6 +135,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国共和党国众议员哈德森表示，特朗普关于其“不在乎”中期选举的言论被误解了。",
+          "url": "https://flash.jin10.com/detail/20260609211016823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普：伊朗最高领袖伤得很重",
           "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
           "source": "凤凰网",
@@ -169,6 +180,17 @@
           "time_info": "[09时58分 ~ 18时27分]"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普提名前私人律师，任司法部长",
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
@@ -181,17 +203,6 @@
           "time_info": "[09时58分 ~ 14时04分]"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
           "url": "https://v.ifeng.com/c/8tojH1TtuMo",
           "source": "凤凰网",
@@ -201,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：美国众议院议长约翰逊今天稍后将与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260609210838860800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "特朗普观战NBA总决赛",
@@ -286,7 +308,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -429,7 +451,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -437,7 +459,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗全境航班暂停运行",
@@ -569,6 +591,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "巴斯夫警告伊朗战争可能发车企供应链中断",
+          "url": "https://wallstreetcn.com/livenews/3116858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "以色列总理确认暂停袭击伊朗",
           "url": "https://flash.jin10.com/detail/20260609000537691800",
           "source": "金十数据",
@@ -696,7 +729,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -707,7 +740,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -715,7 +748,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -723,11 +756,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时07分 ~ 21时36分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -753,6 +787,18 @@
           "time_info": "[07时07分 ~ 14时04分]"
         },
         {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 21时36分]"
+        },
+        {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
           "url": "https://www.cls.cn/detail/2394225",
           "source": "财联社热门",
@@ -764,16 +810,15 @@
           "time_info": "[09时58分 ~ 14时04分]"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
+          "title": "美股三大指数集体高开，美光科技涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3116867",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 18时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -812,6 +857,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 07时07分]"
+        },
+        {
+          "title": "AI风暴暂息，美股盘前芯片股持续反弹、万国数据急涨8%，韩股收涨8.2%，油价走低",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
@@ -853,7 +909,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -878,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3116848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览（美股收盘）",
@@ -908,7 +975,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -928,6 +995,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 21时36分]"
         },
         {
           "title": "OpenAI自曝已秘密提交IPO申请",
@@ -952,18 +1031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 07时07分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 18时27分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -1095,6 +1162,18 @@
           "time_info": "[09时58分 ~ 14时04分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 21时36分]"
+        },
+        {
           "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
           "url": "https://flash.jin10.com/detail/20260609051727017800",
           "source": "金十数据",
@@ -1104,18 +1183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 18时27分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -1176,7 +1243,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -1225,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "技术刘Pro：金价运行于均匀高峰内部，需着重关注这三个位置",
+          "url": "https://flash.jin10.com/detail/20260609210600970800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "花旗下调未来0-3个月黄金价格目标至4000美元，之前为4300美元。 虽然短期动能偏负面，但预计金价最终将随着霍尔木兹海峡紧张局势趋于缓和而反弹。 维持未来6-12个月金价目标在5000美元不变。",
