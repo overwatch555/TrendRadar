@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T18:10:02.621585+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-08-13T20:42:46.014018+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -88,11 +88,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 18时10分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 20时42分]"
         },
         {
           "title": "美国总统特朗普周四日程一览",
@@ -106,6 +107,28 @@
           "time_info": "09时01分"
         },
         {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "伊朗表示未经批准，任何船只都不能安全通过霍尔木兹海峡。伊朗称其完全控制霍尔木兹海峡，其军队监视着美国在该地区动向。伊朗称特朗普关于控制霍尔木兹海峡的说法是谎言。（伊朗伊斯兰共和国广播电视台）",
+          "url": "https://wallstreetcn.com/livenews/3149157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
           "url": "https://flash.jin10.com/detail/20260813054700329800",
           "source": "金十数据",
@@ -116,6 +139,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
         },
         {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
@@ -168,17 +226,6 @@
           "time_info": "[05时39分 ~ 06时30分]"
         },
         {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
           "url": "https://wallstreetcn.com/livenews/3148771",
           "source": "华尔街见闻-快讯",
@@ -189,17 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时35分]"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -248,17 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时30分]"
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -329,6 +354,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "针锋相对！伊朗新任军事高官反呛特朗普：霍尔木兹海峡在伊朗控制下",
+          "url": "https://flash.jin10.com/detail/20260813201917203800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
           "url": "https://flash.jin10.com/detail/20260813033557637800",
           "source": "金十数据",
@@ -338,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗联合军事司令部发言人：美国总统特朗普关于控制海峡的说法是谎言。",
+          "url": "https://flash.jin10.com/detail/20260813201402930800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
@@ -376,7 +423,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -410,11 +457,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 18时10分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 20时42分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -434,11 +482,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时00分 ~ 18时10分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -503,6 +552,28 @@
           "time_info": "[09时00分 ~ 13时28分]"
         },
         {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
           "url": "https://wallstreetcn.com/livenews/3148768",
           "source": "华尔街见闻-快讯",
@@ -546,11 +617,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 20时42分]"
         },
         {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
@@ -582,11 +654,12 @@
           "url": "https://www.zhihu.com/question/2071189146777773055",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
         },
         {
           "title": "腾讯CodeBuddy支持DeepSeek-V4-Pro正式版",
@@ -598,6 +671,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://wallstreetcn.com/livenews/3149148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://wallstreetcn.com/livenews/3149142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版突遭撤回",
+          "url": "https://wallstreetcn.com/livenews/3149137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "真实项目实测DeepSeek V4 Pro",
@@ -625,7 +753,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -666,6 +794,17 @@
           "time_info": "[00时46分 ~ 05时39分]"
         },
         {
+          "title": "伊朗军方：未经许可任何船只无法安全通过霍尔木兹",
+          "url": "https://wallstreetcn.com/livenews/3149162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
           "url": "https://wallstreetcn.com/livenews/3148774",
           "source": "华尔街见闻-快讯",
@@ -676,6 +815,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时35分]"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时42分]"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
@@ -689,28 +850,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时32分 ~ 06时30分]"
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
@@ -755,9 +894,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "伊朗：未经批准 任何船只都不能安全通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260813201501848800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
@@ -771,15 +921,48 @@
           "time_info": "04时32分"
         },
         {
+          "title": "伊朗国家电视台援引伊朗联合军事司令部发言人：伊朗军队监视美国在该地区的动向。",
+          "url": "https://flash.jin10.com/detail/20260813201324101800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "战争叠加通胀 “先买后付”广告占领伊朗街头",
           "url": "https://flash.jin10.com/detail/20260813175108889800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗联合军事司令部发言人：伊朗完全控制霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260813201314448800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，任何船只在霍尔木兹海峡通行必须获得伊朗的许可。",
+          "url": "https://flash.jin10.com/detail/20260813201051673800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "伊朗革命卫队指挥官纳克迪：我们已经承受了长达73年的美国打击，伊朗顶住了这些压力，保持了团结，维护了领土完整，没有让敌人实现其目标。",
@@ -804,6 +987,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗国家电视台（IRIB）援引伊朗联合军事司令部发言人的话：未经批准，任何船只都不能安全通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260813201019293800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
           "url": "https://flash.jin10.com/detail/20260813030442991800",
           "source": "金十数据",
@@ -821,7 +1015,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
@@ -829,7 +1023,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -838,11 +1032,12 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时29分 ~ 18时10分]"
+          "appearance_count": 12,
+          "time_info": "[06时29分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -964,6 +1159,17 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
@@ -986,6 +1192,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "Tapestry美股盘前跌超10%，公司此前公布了第四财季财报。",
+          "url": "https://wallstreetcn.com/livenews/3149131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
           "url": "https://wallstreetcn.com/livenews/3148752",
           "source": "华尔街见闻-快讯",
@@ -995,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "Tapestry第四财季净销售额18.8亿美元，预期18.7亿美元。 第四财季调整后每股收益1.32美元，预期1.27美元。 第四财季调整后营业利润3.62亿美元，同比增长25%。 Tapestry预计2027财年调整后每股收益为7.80至7.90美元，市场预期7.87美元。 Tapestry美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -1099,7 +1327,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
@@ -1126,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时30分]"
+        },
+        {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
